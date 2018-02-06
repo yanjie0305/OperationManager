@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="button_pressed">#eeeeee</color>
+    <color name="color_666666">#666666</color>
+    <color name="bike_line">#00AD66</color>
+    <color name="color1">#008000</color>
+    <color name="color2">#FF6682DE</color>
+    <color name="color3">#FF6D0D83</color>
+    <color name="color4">#FFEA861A</color>
+    <color name="color5">#FFDA1525</color>
+    <color name="color6">#FF1481E7</color>
+    <color name="color7">#FF13C1B8</color>
+    <color name="color8">#FFED5E66</color>
+    <color name="color9">#FF1A5CBE</color>
+    <color name="color10">#FFFCDF07</color>
+    <color name="color11">#FF123005</color>
+    <color name="color12">#FFC6B114</color>
+    <color name="color13">#FF0DD410</color>
+    <color name="color15">#FFA9EDA9</color>
+    <color name="color16">#FFA9CCED</color>
+    <color name="color17">#FFD904F5</color>
+    <color name="color18">#FFF92302</color>
+    <color name="color19">#FFFC9202</color>
+    <color name="color20">#8b9297</color>
+    <color name="color21">#1e7ed6</color>
+    <color name="color_black">#FF0D0D0D</color>
+    #f5f9f8
+    //FF0D0D0D
+</resources>
